@@ -2,7 +2,7 @@
 title: Dahye Kim
 role: Researcher
 bio: My research interests include computer vision, machine learning and
-  open-world learning.
+  Multi-modal Learning.
 interests:
   - Computer Vision
   - Machine Learning
@@ -13,21 +13,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/bububu1324
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=8FFbyJ0AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=psS9UC4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/seongheon-park
+    link: https://github.com/dadaday
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/seongheon-‍park-4948291b5
+    link: https://www.linkedin.com/in/%EC%9D%BC%EB%B0%98%EB%8C%80%ED%95%99%EC%9B%90-%EC%A0%84%EA%B8%B0%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%EA%B3%BC-%EA%B9%80%EB%8B%A4%ED%98%9C-919803278/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -37,17 +31,17 @@ education:
   courses:
     - course: MEng in Electrical and Electronic Engineering
       institution: Yonsei University
-      year: "2023"
+      year: "2024 (Expected)"
     - course: BSc in Electrical and Electronic Engineering
       institution: Yonsei University
-      year: "2021"
+      year: "2022"
 superuser: true
 status:
   icon: ☕️
-last_name: Park
+last_name: Kim
 highlight_name: true
-first_name: Seongheon
-email: "sam121796@yonsei.ac.kr"
+first_name: Dahye
+email: "dadaday@yonsei.ac.kr"
 ---
 
 I’m a M.S. Candidate working with Prof.Kwanghoon Sohn at the Department of Electrical and Electronic Engineering in Yonsei University, Republic of Korea. I'm interested in deploying **Computer Vision** and **Machine Learning** models to the real **Open-World** which contains situations that are dynamic, vast, never-before-seen, and unpredictable. 

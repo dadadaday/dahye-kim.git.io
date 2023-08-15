@@ -1,12 +1,12 @@
 ---
-title: Seongheon Park
+title: Dahye Kim
 role: Researcher
 bio: My research interests include computer vision, machine learning and
   open-world learning.
 interests:
   - Computer Vision
   - Machine Learning
-  - Open-World Learning
+  - Multi-modal Learning
 
     
 social:

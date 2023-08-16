@@ -53,35 +53,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Researcher
-          company: Machine Learning Lab., Yonsei University
-          company_url: 'https://ml.yonsei.ac.kr/'
-          company_logo: yonsei
-          location: Seoul
-          date_start: '2023-03-01'
-          date_end: ''
-          description: |2-
-              Research topics include:
-
-              * Open-World Learning, Out-of-Distribution Detection
-              * (Self-Supervised) Representation Learning
-              * Long-Tailed Learning
-              * Learning with Limited Labeled Data
     
         - title: Research Assistant 
           company: Digital Image Media Lab., Yonsei University
           company_url: 'https://diml.yonsei.ac.kr/'
           company_logo: yonsei
           location: Seoul
-          date_start: '2021-09-01'
-          date_end: '2023-08-31'
+          date_start: '2022-09-01'
+          date_end: ''
           description: |2-
               Research topics include:
-              * Open-World Learning, Out-of-Distribution Detection
-              * Image/Video Anomaly Detection
-              * Vision-Language Models
-              * Cross-Domain Person Re-Identification
+    
+              * Video Grounding (Video Moment Retrieval)
+              * Video-Language Models
               * Learning with Limited Labeled Data
+              * Image/Video Anomaly Detection
+              * Open-World Learning, Out-of-Distribution Detection
 
         - title: Undergraduate Research Assistant 
           company: Digital Image Media Lab., Yonsei University
@@ -89,7 +76,7 @@ sections:
           company_logo: yonsei
           location: Seoul
           date_start: '2021-01-01'
-          date_end: '2021-08-31'
+          date_end: '2022-08-31'
           description: |2-
               Research topics include:
 
@@ -150,13 +137,12 @@ sections:
       text: |-
         Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
-      email: sam121796@yonsei.ac.kr
-      phone: (82-10) 8221-9574
+      email: dadaday@yonsei.ac.kr
       contact_links:
         - icon: linkedin
           icon_pack: fab
           name: Contact Me
-          link: 'https://www.linkedin.com/in/seongheon-‍park-4948291b5'
+          link: 'https://www.linkedin.com/in/%EC%9D%BC%EB%B0%98%EB%8C%80%ED%95%99%EC%9B%90-%EC%A0%84%EA%B8%B0%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%EA%B3%BC-%EA%B9%80%EB%8B%A4%ED%98%9C-919803278/'
 
       # Automatically link email and phone or display as text?
       autolink: true

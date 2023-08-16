@@ -5,10 +5,10 @@ title: 'Normality Guided Multiple Instance Learning for Weakly Supervised Video 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Seongheon Park
   - Hanjae Kim
   - Minsu Kim
-  - Dahye Kim
+  - admin
   - Kwanghoon Sohn
 
 # Author notes (optional)

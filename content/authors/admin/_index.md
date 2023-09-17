@@ -44,6 +44,8 @@ first_name: Dahye
 email: "dadaday@yonsei.ac.kr"
 ---
 
-I’m a M.S. Candidate working with Prof.Kwanghoon Sohn at the Department of Electrical and Electronic Engineering in Yonsei University, Republic of Korea. I'm interested in deploying **Computer Vision** and **Machine Learning** models to the real **Open-World** which contains situations that are dynamic, vast, never-before-seen, and unpredictable. 
+I’m a M.S. Candidate working with Prof.Kwanghoon Sohn at the Department of Electrical and Electronic Engineering in Yonsei University, Republic of Korea. I am interested in building reliable machine learning systems that understand various types of real-world data, such as vision and language.
+
+
 
 {style="text-align: justify;"}

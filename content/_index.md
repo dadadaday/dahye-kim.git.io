@@ -64,7 +64,6 @@ sections:
           description: |2-
               Research topics include:
     
-              * Video Grounding (Video Moment Retrieval)
               * Video-Language Models
               * Learning with Limited Labeled Data
               * Image/Video Anomaly Detection

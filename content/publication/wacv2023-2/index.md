@@ -62,7 +62,10 @@ url_video: ''
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #   focal_point: ''
 #   preview_only: false
-
+image:
+   placement: 1
+   focal_point: ''
+   preview_only: false
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

@@ -38,8 +38,11 @@ sections:
       order: desc
     design:
       # Choose a layout view
+     # view: compact
+      #columns: '2'
       view: compact
-      columns: '2'
+      # Choose single or dual column layout
+      columns: '1'
     
   - block: experience
     content:

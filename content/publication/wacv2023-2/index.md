@@ -63,7 +63,7 @@ url_video: ''
 #   focal_point: ''
 #   preview_only: false
 image:
-   placement: 2
+   placement: 1
    focal_point: ''
    preview_only: false
 # Associated Projects (optional).

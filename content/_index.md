@@ -38,11 +38,9 @@ sections:
       order: desc
     design:
       # Choose a layout view
-     # view: compact
-      #columns: '2'
       view: compact
-      # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
+
     
   - block: experience
     content:
@@ -98,9 +96,12 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: card
-    
+      # columns: '2'
+      # view: card
+      # Choose a listing view
+      view: compact
+      # Choose single or dual column layout
+      columns: '1' 
   - block: portfolio
     id: projects
     content:

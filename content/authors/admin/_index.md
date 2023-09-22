@@ -18,7 +18,7 @@ social:
     link: https://scholar.google.com/citations?user=psS9UC4AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/%EC%9D%BC%EB%B0%98%EB%8C%80%ED%95%99%EC%9B%90-%EC%A0%84%EA%B8%B0%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%EA%B3%BC-%EA%B9%80%EB%8B%A4%ED%98%9C-919803278/
+    link: https://www.linkedin.com/in/dahye-kim-919803278/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf

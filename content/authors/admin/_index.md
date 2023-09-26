@@ -1,8 +1,7 @@
 ---
 title: Dahye Kim
 role: Researcher
-bio: My research interests include computer vision, machine learning and
-  Multi-modal Learning.
+bio: My research interests include computer vision and multimodal learning
 interests:
   - Computer Vision
   - Machine Learning
@@ -41,8 +40,7 @@ first_name: Dahye
 email: "dadaday@yonsei.ac.kr"
 ---
 
-I’m a M.S. Candidate working with Prof.Kwanghoon Sohn at the Department of Electrical and Electronic Engineering in Yonsei University, Republic of Korea. I am interested in building reliable machine learning systems that understand various types of real-world data, such as vision and language.
-
+I’m a M.S. Candidate working with Prof.Kwanghoon Sohn at the Department of Electrical and Electronic Engineering at Yonsei University, Republic of Korea. I am interested in building robust and reliable machine learning systems by leveraging information from diverse modalities, including vision and language.
 
 
 {style="text-align: justify;"}

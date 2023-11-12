@@ -75,7 +75,7 @@ sections:
           company_url: 'https://diml.yonsei.ac.kr/'
           company_logo: yonsei
           location: Seoul
-          date_start: '2021-01-01'
+          date_start: '2022-01-01'
           date_end: '2022-08-31'
           description: |2-
               Research topics include:

@@ -157,8 +157,7 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
-
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1qNf_GyEwFaAgjphwAABM6LeZqZEyLXFOhce_kg0KSc"></script>
     design:
       columns: '2'
 ---
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1qNf_GyEwFaAgjphwAABM6LeZqZEyLXFOhce_kg0KSc"></script>

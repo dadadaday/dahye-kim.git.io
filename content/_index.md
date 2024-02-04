@@ -160,4 +160,3 @@ sections:
     design:
       columns: '2'
 ---
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1qNf_GyEwFaAgjphwAABM6LeZqZEyLXFOhce_kg0KSc"></script>
